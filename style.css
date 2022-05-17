@@ -1,0 +1,16 @@
+img
+{
+    height: 500px;
+    transition: 1s;
+    display: block;
+    
+    width: 900px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+     
+}
+img:hover
+{
+    transform: rotate(-30deg);
+}
